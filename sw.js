@@ -1,5 +1,5 @@
 /* Offline cache for the encrypted trip page. Contains no trip data. */
-const CACHE_VERSION = "20261112225907";
+const CACHE_VERSION = "20261125104955";
 const CACHE = "taipei-trip-" + CACHE_VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
